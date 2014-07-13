@@ -56,7 +56,7 @@
 							<div class="large-4 columns">
 								<a href="http://minecraftservers.org/vote/135622" target="_blank" title="Vote for Skyblock.xyz">
 									<h3 class="text-center">Vote</h3>
-									<i class="fa fa-check-square-o fa-10x text-center centered"></i>
+									<i class="fa fa-check-square-o fa-10x text-center centered" style="margin-right:-30px"></i>
 								</a>
 							</div>
 							<div class="large-4 columns">
@@ -77,8 +77,31 @@
 						<?php include('check/index.php'); ?>
 						<br class="clear">
 					</div>
-					<div class="large-5 medium-5 columns box shadow inset small-top-marg" data-equalizer-watch>
-						<h3>Other API Goodies Here :]</h3>
+					<div class="large-5 medium-5 columns" data-equalizer-watch>
+						<div class="row collapse">
+							<div class="large-12 columns">
+								<div class="box shadow inset small-top-marg">
+									<h3>Updates</h3>
+									<ul>
+										<li>15% off donations right now. <a href="http://mcsky-block.buycraft.net/" target="_blank" title="Donate to Skyblock.xyz">Donate Now!</a></li>
+										<li>/kit grow can now be used <u>daily</u> to help kick start your farm!</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="row collapse">
+							<div class="large-12 columns">
+								<div class="box shadow inset small-top-marg">
+									<h3>Coming Soon</h3>
+									<ul>
+										<li>New mob arena maps</li>
+										<li>Player to player trading</li>
+										<li>New look and feel to forums</li>
+										<li>New look and feel to donation page</li>
+									</ul>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</section>

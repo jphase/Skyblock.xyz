@@ -37,6 +37,9 @@ try {
 	// Grab players that are online
 	$players = $Query->GetPlayers();
 
+	// Grab server info
+	$info = $Query->GetInfo();
+
 	if ( empty( $players ) ) {
 
 		// Nobody is online
@@ -45,7 +48,7 @@ try {
 	} else {
 
 		// Display title
-		echo '<h3>Online Users</h3>';
+		echo '<h3>Online Users (' . $info['players'] . '/' . $info['Maxplayers'] . ')</h3>';
 
 		// Display folks that are online
 		foreach ( $players as $player ) {
