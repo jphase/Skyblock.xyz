@@ -20,13 +20,13 @@
 			<aside class="left-off-canvas-menu">
 				<ul class="off-canvas-list">
 					<li><label>Quick Links</label></li>
-					<li><a href="http://skyblock.xyz" title="Skyblock.xyz Forums"><i class="fa fa-comments"></i> &nbsp;&nbsp;Forums</a></li>
+					<li><a href="http://skyblock.xyz/forums" title="Skyblock.xyz Forums"><i class="fa fa-comments"></i> &nbsp;&nbsp;Forums</a></li>
 					<li><a href="http://minecraftservers.org/vote/135622" target="_blank" title="Vote for Skyblock.xyz"><i class="fa fa-check-square-o"></i> &nbsp;&nbsp;Vote</a></li>
 					<li><a href="http://mcsky-block.buycraft.net/" target="_blank" title="Donate to Skyblock.xyz"><i class="fa fa-money"></i> &nbsp;&nbsp;Donate</a></li>
 					<li><label>Forum Links</label></li>
-					<li><a href="http://skyblock.xyz/index.php?forums/helper-application.11/">Apply to be a helper</a></li>
-					<li><a href="http://skyblock.xyz/index.php?forums/youtube-application.12/">Apply to be a youtuber</a></li>
-					<li><a href="http://skyblock.xyz/index.php?forums/player-reports.15/">Report a player</a></li>
+					<li><a href="http://skyblock.xyz/forums/index.php?forums/helper-application.11/">Apply to be a helper</a></li>
+					<li><a href="http://skyblock.xyz/forums/index.php?forums/youtube-application.12/">Apply to be a youtuber</a></li>
+					<li><a href="http://skyblock.xyz/forums/index.php?forums/player-reports.15/">Report a player</a></li>
 					<li><label>Helpful Resources</label></li>
 					<li><a href="http://www.minecraft-crafting.net/" target="_blank" title="Minecraft Crafting Guide">Crafting Guide</a></li>
 					<li><a href="http://www.minecraftskins.net/" target="_blank" title="Minecraft Player Skins">Minecraft Skins</a></li>
@@ -48,7 +48,7 @@
 					<div class="large-12 medium-12 columns box shadow inset no-top-marg">
 						<div class="row collapse">
 							<div class="large-4 columns">
-								<a href="http://skyblock.xyz" title="Skyblock.xyz Forums">
+								<a href="http://skyblock.xyz/forums" title="Skyblock.xyz Forums">
 									<h3 class="text-center">Forums</h3>
 									<i class="fa fa-comments fa-10x text-center centered"></i>
 								</a>
