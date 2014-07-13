@@ -1,9 +1,22 @@
+@font-face {
+	font-family: 'MavenProLight100';
+	src: url("../fonts/mavenprolight-100.eot");
+	src: url("../fonts/mavenprolight-100.eot") format("embedded-opentype"), url("../fonts/mavenprolight-100.woff") format("woff"), url("../fonts/mavenprolight-100.ttf") format("truetype"), url("../fonts/mavenprolight-100.svg#MavenProLight100") format("svg");
+}
+
+@font-face {
+	font-family: 'MavenProLight300';
+	src: url("../fonts/mavenprolight-300.eot");
+	src: url("../fonts/mavenprolight-300.eot") format("embedded-opentype"), url("../fonts/mavenprolight-300.woff") format("woff"), url("../fonts/mavenprolight-300.ttf") format("truetype"), url("../fonts/mavenprolight-300.svg#MavenProLight300") format("svg");
+}
+
 body {
-	background: url('../images/bg/woven.png');
+	background: url('../images/bg/hixs.png');
 }
 
 h1, h2, h3, h4, h5 {
 	color: #ccc;
+	font-family: 'MavenProLight300';
 }
 
 a {
@@ -20,15 +33,27 @@ a:hover {
 
 /* Utility Classes */
 
+	.nomarg { margin: 0; }
+	.half { width: 50%; }
 	.centered {
 		display: block;
 		margin: 0 auto;
 	}
-
 	.shadow.inset {
 		-moz-box-shadow:    inset 0 0 10px #000;
 		-webkit-box-shadow: inset 0 0 10px #000;
 		box-shadow:         inset 0 0 10px #000;
+	}
+	.rotate {
+		-webkit-animation-name:             rotate;
+		-webkit-animation-duration:         3s;
+		-webkit-animation-iteration-count:  infinite;
+		-webkit-animation-timing-function:  linear;
+	}
+	.round-image img {
+		border-radius: 300px;
+		-webkit-border-radius: 300px;
+		-moz-border-radius: 300px;
 	}
 
 /* Content */
@@ -39,9 +64,14 @@ a:hover {
 		border: 1px solid #333;
 		background: rgba(48, 48, 48, .7);
 	}
-
 	div.title {
 		margin: 5rem 0;
+	}
+	div.title:hover i.fa {
+		-webkit-animation-name:             pulse;
+		-webkit-animation-duration:         3s;
+		-webkit-animation-iteration-count:  infinite;
+		-webkit-animation-timing-function:  linear;
 	}
 
 /* Foundation Addons */
@@ -54,4 +84,29 @@ a:hover {
 
 	.fa-10x {
 		font-size: 10em;
+	}
+
+/* Keyframes */
+
+	@keyframes pulse {
+		0% {
+			opacity: 1;
+		}
+		50% {
+			opacity: .2;
+		}
+		100% {
+			opacity: 1;
+		}
+	}
+	@-webkit-keyframes pulse {
+		0% {
+			opacity: 1;
+		}
+		50% {
+			opacity: .2;
+		}
+		100% {
+			opacity: 1;
+		}
 	}
