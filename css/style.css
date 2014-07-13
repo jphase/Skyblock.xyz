@@ -79,6 +79,10 @@ a:hover {
 		-webkit-animation-iteration-count:  infinite;
 		-webkit-animation-timing-function:  linear;
 	}
+	.player {
+		clear: both;
+		margin-top: 10px;
+	}
 	.player img {
 		float: left;
 		max-height: 18px;
