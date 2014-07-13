@@ -17,6 +17,7 @@ body {
 h1, h2, h3, h4, h5 {
 	color: #ccc;
 	font-family: 'MavenProLight300';
+	text-transform: uppercase;
 }
 
 a {
@@ -33,6 +34,7 @@ a:hover {
 
 /* Utility Classes */
 
+	.clear { clear: both; }
 	.nomarg { margin: 0; }
 	.half { width: 50%; }
 	.centered {
@@ -58,9 +60,10 @@ a:hover {
 
 /* Content */
 
-	.hotlinks {
+	.box {
 		color: #ccc;
 		padding: 1rem;
+		margin-top: 1rem;
 		border: 1px solid #333;
 		background: rgba(48, 48, 48, .7);
 	}
@@ -72,6 +75,11 @@ a:hover {
 		-webkit-animation-duration:         3s;
 		-webkit-animation-iteration-count:  infinite;
 		-webkit-animation-timing-function:  linear;
+	}
+	.player img {
+		float: left;
+		max-height: 18px;
+		margin: 0 14px 0 0;
 	}
 
 /* Foundation Addons */
@@ -110,3 +118,16 @@ a:hover {
 			opacity: 1;
 		}
 	}
+
+/* Media Queries */
+
+	/* Mobile */
+
+		@media only screen and (max-width: 600px) {
+
+		}
+
+	/* Tablet */
+		@media only screen and (max-width: 1020px) {
+
+		}

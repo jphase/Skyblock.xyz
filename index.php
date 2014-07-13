@@ -35,7 +35,7 @@
 				</ul>
 			</aside>
 
-			<section class="main-section">
+			<section class="main section">
 				<div class="row">
 					<div class="large-12 columns">
 						<div class="title">
@@ -45,29 +45,40 @@
 				</div>
 
 				<div class="row">
-					<div class="large-12 columns">
-						<div class="hotlinks shadow inset">
-							<div class="row collapse">
-								<div class="large-4 columns">
-									<a href="http://skyblock.xyz" title="Skyblock.xyz Forums">
-										<h3 class="text-center">Forums</h3>
-										<i class="fa fa-comments fa-10x text-center centered"></i>
-									</a>
-								</div>
-								<div class="large-4 columns">
-									<a href="http://minecraftservers.org/vote/135622" target="_blank" title="Vote for Skyblock.xyz">
-										<h3 class="text-center">Vote</h3>
-										<i class="fa fa-check-square-o fa-10x text-center centered"></i>
-									</a>
-								</div>
-								<div class="large-4 columns">
-									<a href="http://mcsky-block.buycraft.net/" target="_blank" title="Donate to Skyblock.xyz">
-										<h3 class="text-center">Donate</h3>
-										<i class="fa fa-money fa-10x text-center centered"></i>
-									</a>
-								</div>
+					<div class="large-12 medium-12 columns box shadow inset">
+						<div class="row collapse">
+							<div class="large-4 columns">
+								<a href="http://skyblock.xyz" title="Skyblock.xyz Forums">
+									<h3 class="text-center">Forums</h3>
+									<i class="fa fa-comments fa-10x text-center centered"></i>
+								</a>
 							</div>
+							<div class="large-4 columns">
+								<a href="http://minecraftservers.org/vote/135622" target="_blank" title="Vote for Skyblock.xyz">
+									<h3 class="text-center">Vote</h3>
+									<i class="fa fa-check-square-o fa-10x text-center centered"></i>
+								</a>
+							</div>
+							<div class="large-4 columns">
+								<a href="http://mcsky-block.buycraft.net/" target="_blank" title="Donate to Skyblock.xyz">
+									<h3 class="text-center">Donate</h3>
+									<i class="fa fa-money fa-10x text-center centered"></i>
+								</a>
+							</div>
+							<br class="clear">
 						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="widget section">
+				<div class="row" data-equalizer>
+					<div class="large-5 medium-5 columns box shadow inset small-top-marg" data-equalizer-watch>
+						<?php include('check/index.php'); ?>
+						<br class="clear">
+					</div>
+					<div class="large-5 medium-5 columns box shadow inset small-top-marg" data-equalizer-watch>
+						<h3>Other API Goodies Here :]</h3>
 					</div>
 				</div>
 			</section>
