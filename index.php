@@ -45,7 +45,7 @@
 				</div>
 
 				<div class="row">
-					<div class="large-12 medium-12 columns box shadow inset">
+					<div class="large-12 medium-12 columns box shadow inset no-top-marg">
 						<div class="row collapse">
 							<div class="large-4 columns">
 								<a href="http://skyblock.xyz" title="Skyblock.xyz Forums">

@@ -67,6 +67,9 @@ a:hover {
 		border: 1px solid #333;
 		background: rgba(48, 48, 48, .7);
 	}
+	.box.no-top-marg {
+		margin-top: 0;
+	}
 	div.title {
 		margin: 5rem 0;
 	}
