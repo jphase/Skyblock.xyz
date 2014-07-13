@@ -18,14 +18,14 @@ class MinecraftQuery {
 			throw new InvalidArgumentException( 'Timeout must be an integer.' );
 		}
 		
-		$this->socket = @FSockOpen( 'udp://' . $ip, (int)$port, $ErrNo, $ErrStr, $timeout );
+		$this->socket = @fsockopen( 'udp://' . $ip, (int)$port, $ErrNo, $ErrStr, $timeout );
 		
 		if( $ErrNo || $this->socket === false ) {
 			throw new MinecraftQueryException( 'Could not create socket: ' . $ErrStr );
 		}
 		
-		Stream_Set_Timeout( $this->socket, $timeout );
-		Stream_Set_Blocking( $this->socket, true );
+		stream_set_timeout( $this->socket, $timeout );
+		stream_set_blocking( $this->socket, true );
 		
 		try {
 
@@ -34,12 +34,12 @@ class MinecraftQuery {
 
 		} catch( MinecraftQueryException $e ) {
 
-			FClose( $this->socket );
+			fclose( $this->socket );
 			throw new MinecraftQueryException( $e->getMessage() );
 
 		}
 		
-		FClose( $this->socket );
+		fclose( $this->socket );
 
 	}
 	
@@ -66,7 +66,7 @@ class MinecraftQuery {
 	
 	private function GetStatus( $Challenge ) {
 
-		$data = $this->WriteData( self :: STATISTIC, $Challenge . pack( 'c*', 0x00, 0x00, 0x00, 0x00 ) );
+		$data = $this->WriteData( self::STATISTIC, $Challenge . pack( 'c*', 0x00, 0x00, 0x00, 0x00 ) );
 		
 		if( !$data ) {
 			throw new MinecraftQueryException( 'Failed to receive status.' );
@@ -75,15 +75,15 @@ class MinecraftQuery {
 		$last = '';
 		$info = array();
 		
-		$data    = substr( $data, 11 ); // splitnum + 2 int
-		$data    = explode( "\x00\x00\x01player_\x00\x00", $data );
+		$data = substr( $data, 11 ); // splitnum + 2 int
+		$data = explode( "\x00\x00\x01player_\x00\x00", $data );
 		
 		if( count( $data ) !== 2 ) {
 			throw new MinecraftQueryException( 'Failed to parse server\'s response.' );
 		}
 		
 		$players = substr( $data[ 1 ], 0, -2 );
-		$data    = explode( "\x00", $data[ 0 ] );
+		$data = explode( "\x00", $data[ 0 ] );
 		
 		// array with known keys in order to validate the result
 		// It can happen that server sends custom strings containing bad things (who can know!)
@@ -120,9 +120,9 @@ class MinecraftQuery {
 		}
 		
 		// Ints
-		$info[ 'players' ]    = intval( $info[ 'players' ] );
+		$info[ 'players' ] = intval( $info[ 'players' ] );
 		$info[ 'Maxplayers' ] = intval( $info[ 'Maxplayers' ] );
-		$info[ 'HostPort' ]   = intval( $info[ 'HostPort' ] );
+		$info[ 'HostPort' ] = intval( $info[ 'HostPort' ] );
 		
 		// Parse "plugins", if any
 		if( $info[ 'Plugins' ] ) {
@@ -153,19 +153,19 @@ class MinecraftQuery {
 	private function WriteData( $Command, $Append = "" ) {
 
 		$Command = pack( 'c*', 0xFE, 0xFD, $Command, 0x01, 0x02, 0x03, 0x04 ) . $Append;
-		$Length  = StrLen( $Command );
+		$Length  = strlen( $Command );
 		
-		if( $Length !== FWrite( $this->socket, $Command, $Length ) ) {
+		if( $Length !== fwrite( $this->socket, $Command, $Length ) ) {
 			throw new MinecraftQueryException( "Failed to write on socket." );
 		}
 		
-		$data = FRead( $this->socket, 2048 );
+		$data = fread( $this->socket, 2048 );
 		
 		if( $data === false ) {
 			throw new MinecraftQueryException( "Failed to read from socket." );
 		}
 		
-		if( StrLen( $data ) < 5 || $data[ 0 ] != $Command[ 2 ] ) {
+		if( strlen( $data ) < 5 || $data[ 0 ] != $Command[ 2 ] ) {
 			return false;
 		}
 		

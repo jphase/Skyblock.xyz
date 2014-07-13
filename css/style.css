@@ -73,7 +73,7 @@ a:hover {
 	div.title {
 		margin: 5rem 0;
 	}
-	div.title:hover i.fa {
+	div.title i.fa {
 		-webkit-animation-name:             pulse;
 		-webkit-animation-duration:         3s;
 		-webkit-animation-iteration-count:  infinite;
@@ -93,6 +93,7 @@ a:hover {
 
 	.off-canvas-wrap .inner-wrap {
 		min-height: 900px;
+		padding-bottom: 20px;
 	}
 
 /* Font Awesome Addons */
