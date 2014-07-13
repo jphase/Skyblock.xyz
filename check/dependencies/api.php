@@ -40,7 +40,7 @@ try {
 	if ( empty( $players ) ) {
 
 		// Nobody is online
-		echo 'Nobody is online.';
+		echo '<h3>Nobody is online.</h3>';
 
 	} else {
 
