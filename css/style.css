@@ -37,6 +37,7 @@ a:hover {
 	.clear { clear: both; }
 	.nomarg { margin: 0; }
 	.half { width: 50%; }
+	.orange { color: orange; }
 	.centered {
 		display: block;
 		margin: 0 auto;
@@ -57,6 +58,12 @@ a:hover {
 		-webkit-border-radius: 300px;
 		-moz-border-radius: 300px;
 	}
+	.pulse {
+		-webkit-animation-name:             pulse;
+		-webkit-animation-duration:         3s;
+		-webkit-animation-iteration-count:  infinite;
+		-webkit-animation-timing-function:  linear;
+	}
 
 /* Content */
 
@@ -72,12 +79,6 @@ a:hover {
 	}
 	div.title {
 		margin: 5rem 0;
-	}
-	div.title i.fa {
-		-webkit-animation-name:             pulse;
-		-webkit-animation-duration:         3s;
-		-webkit-animation-iteration-count:  infinite;
-		-webkit-animation-timing-function:  linear;
 	}
 	.player {
 		clear: both;

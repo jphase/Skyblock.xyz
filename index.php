@@ -39,7 +39,7 @@
 				<div class="row">
 					<div class="large-12 columns">
 						<div class="title">
-							<h1 class="text-center"><i class="fa fa-cubes"></i> Skyblock.xyz</h1>
+							<h1 class="text-center"><i class="fa fa-cubes pulse"></i> Skyblock.xyz</h1>
 						</div>
 					</div>
 				</div>
@@ -82,9 +82,14 @@
 							<div class="large-12 columns">
 								<div class="box shadow inset small-top-marg">
 									<h3>Updates</h3>
-									<ul>
-										<li>15% off donations right now. <a href="http://mcsky-block.buycraft.net/" target="_blank" title="Donate to Skyblock.xyz">Donate Now!</a></li>
-										<li>/kit grow can now be used <u>daily</u> to help kick start your farm!</li>
+									<ul class="fa-ul">
+										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i>PVP has been added!!</li>
+										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i>New mob arena map "sky" added</li>
+										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i><strong>/vote</strong> and <strong>/website</strong> work <u>in-game</u></li>
+										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i>Explorer challenge is fixed</li>
+										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i>Lumberjack challenge is fixed</li>
+										<li><i class="fa-li fa fa-angle-right"></i>15% off donations right now. <a href="http://mcsky-block.buycraft.net/" target="_blank" title="Donate to Skyblock.xyz">Donate Now!</a></li>
+										<li><i class="fa-li fa fa-angle-right"></i><strong>/kit</strong> grow can now be used <u>daily</u> to help kick start your farm!</li>
 									</ul>
 								</div>
 							</div>
@@ -93,11 +98,29 @@
 							<div class="large-12 columns">
 								<div class="box shadow inset small-top-marg">
 									<h3>Coming Soon</h3>
-									<ul>
-										<li>New mob arena maps</li>
-										<li>Player to player trading</li>
-										<li>New look and feel to forums</li>
-										<li>New look and feel to donation page</li>
+									<ul class="fa-ul">
+										<li><i class="fa-li fa fa-angle-right"></i>New mob arena maps</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Player to player trading</li>
+										<li><i class="fa-li fa fa-angle-right"></i>New look and feel to forums</li>
+										<li><i class="fa-li fa fa-angle-right"></i>New look and feel to donation page</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="row collapse">
+							<div class="large-12 columns">
+								<div class="box shadow inset small-top-marg">
+									<h3>Rules</h3>
+									<ul class="fa-ul">
+										<li><i class="fa-li fa fa-angle-right"></i>Don't swear too much</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Do not spam</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Do not harass anyone</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Be nice</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Do not advertise</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Do not threaten other people</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Don't use hacked clients</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Don't be a douche</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Do not restart islands to gain more resources</li>
 									</ul>
 								</div>
 							</div>

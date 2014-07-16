@@ -39,6 +39,9 @@ try {
 
 	// Grab server info
 	$info = $Query->GetInfo();
+	// echo '<pre>';
+	// print_r($info);
+	// echo '</pre>';
 
 	if ( empty( $players ) ) {
 
