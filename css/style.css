@@ -36,6 +36,7 @@ a:hover {
 
 	.clear { clear: both; }
 	.nomarg { margin: 0; }
+	.nopad-right { padding-right: 0; }
 	.half { width: 50%; }
 	.orange { color: orange; }
 	.centered {
@@ -95,6 +96,31 @@ a:hover {
 	.off-canvas-wrap .inner-wrap {
 		min-height: 900px;
 		padding-bottom: 20px;
+	}
+	.tabs dd > a, .tabs .tab-title > a {
+		background: none;
+		color: #6d9700;
+	}
+	.tabs dd.active a, .tabs .tab-title.active a {
+		background: rgba(0, 0, 0, .3);
+		color: #ccc;
+	}
+	.tabs dd > a:hover, .tabs .tab-title > a:hover {
+		background: rgba(120, 120, 120, .3);
+	}
+	.tabs dd.active a, .tabs .tab-title.active a {
+		background: rgba(0, 0, 0, .3);
+	}
+	.button.green {
+		color: #000;
+		background: #6d9700;
+		-webkit-transition: all .3s ease-in-out;
+		-moz-transition: all .3s ease-in-out;
+		-o-transition: all .3s ease-in-out;
+		transition: all .3s ease-in-out;
+	}
+	.button.green:hover {
+		background: #96cf00;
 	}
 
 /* Font Awesome Addons */

@@ -143,7 +143,7 @@ class MinecraftQuery {
 		}
 		
 		$this->info = $info;
-		
+
 		if( $players ) {
 			$this->players = explode( "\x00", $players );
 		}
