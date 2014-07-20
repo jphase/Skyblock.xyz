@@ -229,7 +229,7 @@
 									</li>
 									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
 									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craeft</strong> <em>(a crafting table from anywhere you are)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
 									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
 									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
 									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp end</strong> (takes you to the nether)</li>
@@ -300,8 +300,8 @@
 									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
 									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
 									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp end</strong> (takes you to the nether)</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> <em>(takes you to the nether)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp end</strong> <em>(takes you to the nether)</em></li>
 									<li><i class="fa-li fa fa-angle-right"></i>Ability to make your own island warp. (<strong>/is setwarp</strong>)</li>
 								</ul>
 							</div>
