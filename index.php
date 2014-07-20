@@ -72,6 +72,281 @@
 				</div>
 			</section>
 
+			<section class="widget section small-top-marg">
+				<div class="row">
+					<div class="large-12 columns box shadow inset">
+						<h3>Donor Ranks<span class="right orange pulse">20% off all ranks right now!!</span></h3>
+						<ul class="tabs vertical" data-tab>
+							<li class="tab-title active"><a href="#vip">VIP</a></li>
+							<li class="tab-title"><a href="#premium">Premium</a></li>
+							<li class="tab-title"><a href="#hero">Hero</a></li>
+							<li class="tab-title"><a href="#elite">Elite</a></li>
+							<li class="tab-title"><a href="#professional">Professional</a></li>
+							<li class="tab-title"><a href="#mayor">Mayor</a></li>
+							<li class="tab-title"><a href="#skylord">Skylord</a></li>
+							<li class="tab-title"><a href="#skylegend">Skylegend</a></li>
+						</ul>
+						<div class="tabs-content vertical">
+							<div class="content active" id="vip">
+								<div class="right">
+									<h4><small class="strike">4.99 USD</small> <span class="green">3.99 USD</span></h4>
+									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773695/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
+								</div>
+								<h4>VIP donors get:</h4>
+								<ul class="fa-ul">	
+									<li><i class="fa-li fa fa-angle-right"></i>$200 in-game money</li>
+									<li><i class="fa-li fa fa-angle-right"></i>32 Cobblestone, 4 Dirt & 5 Cooked Pork</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Vip</strong> every 7 days
+										<ul>
+											<li>2 Diamonds</li>
+											<li>2 Dirt</li>
+											<li>2 Sand</li>
+											<li>1 Grass</li>
+											<li>32 Cobblestone</li>
+											<li>4 Iron Ingots</li>
+										</ul>
+									</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
+								</ul>
+							</div>
+							<div class="content" id="premium">
+								<div class="right">
+									<h4><small class="strike">9.99 USD</small> <span class="green">7.99 USD</span></h4>
+									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773697/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
+								</div>	
+								<h4>Premium donors get:</h4>
+								<ul class="fa-ul">
+									<li><i class="fa-li fa fa-angle-right"></i>$400 in-game money</li>
+									<li><i class="fa-li fa fa-angle-right"></i>64 Cobblestone, 8 Dirt, 10 Cooked Pork & 1 Diamond</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Premium</strong> every 7 days
+										<ul>
+											<li>3 Diamonds</li>
+											<li>3 Dirt</li>
+											<li>3 Sand</li>
+											<li>1 Grass</li>
+											<li>48 Cobblestone</li>
+											<li>6 Iron Ingots</li>
+										</ul>
+									</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
+								</ul>
+							</div>
+							<div class="content" id="hero">
+								<div class="right">
+									<h4><small class="strike">19.99 USD</small> <span class="green">15.99 USD</span></h4>
+									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773704/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
+								</div>
+								<h4>Hero donors get:</h4>
+								<ul class="fa-ul">
+									<li><i class="fa-li fa fa-angle-right"></i>$1,000 in-game money</li>
+									<li><i class="fa-li fa fa-angle-right"></i>16 Torches, 1 Extra Lava Bucket, 2 Bones, 32 Cobblestone, 4 Dirt, 4 Sand, and 5 Cooked Pork</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Hero</strong> every 7 days
+										<ul>
+											<li>4 Diamonds</li>
+											<li>4 Dirt</li>
+											<li>4 Sand</li>
+											<li>1 Grass</li>
+											<li>64 Cobblestone</li>
+											<li>8 Iron Ingots</li>
+										</ul>
+									</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
+								</ul>
+							</div>
+							<div class="content" id="elite">
+								<div class="right">
+									<h4><small class="strike">34.99 USD</small> <span class="green">27.99 USD</span></h4>
+									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773706/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
+								</div>
+								<h4>Elite donors get:</h4>
+								<ul class="fa-ul">
+									<li><i class="fa-li fa fa-angle-right"></i>$2,000 in-game money</li>
+									<li><i class="fa-li fa fa-angle-right"></i>8 Diamonds, 32 Dirt, 32 Sand & 2 Grass Blocks</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Ability to join the server even if it is full</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Elite</strong> every 7 days
+										<ul>
+											<li>6 Diamonds</li>
+											<li>8 Dirt</li>
+											<li>8 Sand</li>
+											<li>1 Grass</li>
+											<li>16 Iron Ingots</li>
+										</ul>
+									</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp end</strong> (takes you to the nether)</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Ability to make your own island warp. (<strong>/is setwarp</strong>)</li>
+								</ul>
+							</div>
+							<div class="content" id="professional">
+								<div class="right">
+									<h4><small class="strike">49.99 USD</small> <span class="green">39.99 USD</span></h4>
+									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773709/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
+								</div>
+								<h4>Professional donors get:</h4>
+								<ul class="fa-ul">
+									<li><i class="fa-li fa fa-angle-right"></i>$3,000 in-game money</li>
+									<li><i class="fa-li fa fa-angle-right"></i>12 Diamonds, 32 Dirt, 32 Sand & 8 Grass Blocks</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Ability to join the server even if it is full</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Professional</strong> every 7 days
+										<ul>
+											<li>8 Diamonds</li>
+											<li>12 Dirt</li>
+											<li>12 Sand</li>
+											<li>1 Grass</li>
+											<li>1 Mycelium</li>
+											<li>1 Nametag</li>
+											<li>1 Set of Iron Armor</li>
+											<li>16 Iron Ingots</li>
+											<li>Efficiency 2, Unbreaking 1, Diamond Pickaxe</li>
+											<li>Sharpness 1, Looting 1, Unbreaking 1, Diamond Sword</li>
+										</ul>
+									</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craeft</strong> <em>(a crafting table from anywhere you are)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp end</strong> (takes you to the nether)</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Ability to make your own island warp. (<strong>/is setwarp</strong>)</li>
+								</ul>
+							</div>
+							<div class="content" id="mayor">
+								<div class="right">
+									<h4><small class="strike">74.99 USD</small> <span class="green">59.99 USD</span></h4>
+									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773711/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
+								</div>
+								<h4>Mayor donors get:</h4>
+								<ul class="fa-ul">
+									<li><i class="fa-li fa fa-angle-right"></i>$5,000 in-game money</li>
+									<li><i class="fa-li fa fa-angle-right"></i>16 Diamonds, 32 Dirt, 32 Sand & 12 Grass Blocks</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Ability to join the server even if it is full</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Mayor</strong> every 7 days
+										<ul>
+											<li>8 Diamonds</li>
+											<li>12 Dirt</li>
+											<li>12 Sand</li>
+											<li>1 Grass</li>
+											<li>1 Mycelium</li>
+											<li>1 Nametag</li>
+											<li>1 Set of Iron Armor</li>
+											<li>16 Iron Ingots</li>
+											<li>Efficiency 2, Unbreaking 1, Diamond Pickaxe</li>
+											<li>Sharpness 1, Looting 1, Unbreaking 1, Diamond Sword</li>
+										</ul>
+									</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp end</strong> (takes you to the nether)</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Ability to make your own island warp. (<strong>/is setwarp</strong>)</li>
+								</ul>
+							</div>
+							<div class="content" id="skylord">
+								<div class="right">
+									<h4><small class="strike">99.99 USD</small> <span class="green">79.99 USD</span></h4>
+									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773712/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
+								</div>
+								<h5>Skylord donors get:</h5>
+								<ul class="fa-ul">
+									<li><i class="fa-li fa fa-angle-right"></i>$7,500 in-game money</li>
+									<li><i class="fa-li fa fa-angle-right"></i>2 Pig, 2 Sheep, 2 Villager, 2 Cow spawn eggs</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Ability to join the server even if it is full</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Skylord</strong> every 7 days
+										<ul>
+											<li>16 Diamonds</li>
+											<li>32 Dirt</li>
+											<li>32 Sand</li>
+											<li>2 Grass</li>
+											<li>2 Nametags</li>
+											<li>1 Set of Protection 4, Unbreaking 2, Iron Armor</li>
+											<li>Efficiency 3, Unbreaking 1, Diamond Pickaxe</li>
+											<li>Sharpness 2, Looting 2, Unbreaking 1, Diamond Sword</li>
+										</ul>
+									</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/fly</strong> <em>(Fly all around anywhere!)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/fly</strong> <em>(Fly all around anywhere!)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp end</strong> (takes you to the nether)</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Ability to make your own island warp. (<strong>/is setwarp</strong>)</li>
+								</ul>
+							</div>
+							<div class="content" id="skylegend">
+								<div class="right">
+									<h4><small class="strike">149.99 USD</small> <span class="green">119.99 USD</span></h4>
+									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773714/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
+								</div>
+								<h5>Skylord donors get:</h5>
+								<ul class="fa-ul">
+									<li><i class="fa-li fa fa-angle-right"></i>$10,000 in-game money</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Ability to join the server even if it is full</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to /kit eggs every 30 days. (2 of almost EVERY minecraft mob spawn egg).</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Skylord</strong> every 7 days
+										<ul>
+											<li>24 Diamonds</li>
+											<li>48 Dirt</li>
+											<li>48 Sand</li>
+											<li>32 Steak</li>
+											<li>64 Stone Brick</li>
+											<li>1 Set of Protection 4, Unbreaking 2, Iron Armor</li>
+											<li>Efficiency 5, Unbreaking 3, Diamond Pickaxe</li>
+											<li>Efficiency 5, Unbreaking 3, Diamond Axe</li>
+											<li>Sharpness 5, Unbreaking 3, Looting 3, Diamond Sword</li>
+										</ul>
+									</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/fly</strong> <em>(Fly all around anywhere!)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/fly</strong> <em>(Fly all around anywhere!)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp end</strong> (takes you to the nether)</li>
+									<li><i class="fa-li fa fa-angle-right"></i>Ability to make your own island warp. (<strong>/is setwarp</strong>)</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
 			<section class="widget section">
 				<div class="row" data-equalizer>
 					<div class="large-5 medium-5 columns box shadow inset small-top-marg" data-equalizer-watch>
@@ -124,257 +399,6 @@
 										<li><i class="fa-li fa fa-angle-right"></i>Do not restart islands to gain more resources</li>
 									</ul>
 								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-
-			<section class="widget section small-top-marg">
-				<div class="row">
-					<div class="large-12 columns box shadow inset">
-						<h3>Donor Ranks</h3>
-						<ul class="tabs vertical" data-tab>
-							<li class="tab-title active"><a href="#vip">VIP</a></li>
-							<li class="tab-title"><a href="#premium">Premium</a></li>
-							<li class="tab-title"><a href="#hero">Hero</a></li>
-							<li class="tab-title"><a href="#elite">Elite</a></li>
-							<li class="tab-title"><a href="#professional">Professional</a></li>
-							<li class="tab-title"><a href="#mayor">Mayor</a></li>
-							<li class="tab-title"><a href="#skylord">Skylord</a></li>
-							<li class="tab-title"><a href="#skylegend">Skylegend</a></li>
-						</ul>
-						<div class="tabs-content vertical">
-							<div class="content active" id="vip">
-								<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773695/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
-								<h4>VIP donors get:</h4>
-								<ul class="fa-ul">	
-									<li><i class="fa-li fa fa-angle-right"></i>$200 in-game money</li>
-									<li><i class="fa-li fa fa-angle-right"></i>32 Cobblestone, 4 Dirt & 5 Cooked Pork</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Vip</strong> every 7 days
-										<ul>
-											<li>2 Diamonds</li>
-											<li>2 Dirt</li>
-											<li>2 Sand</li>
-											<li>1 Grass</li>
-											<li>32 Cobblestone</li>
-											<li>4 Iron Ingots</li>
-										</ul>
-									</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
-								</ul>
-							</div>
-							<div class="content" id="premium">
-								<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773697/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
-								<h4>Premium donors get:</h4>
-								<ul class="fa-ul">
-									<li><i class="fa-li fa fa-angle-right"></i>$400 in-game money</li>
-									<li><i class="fa-li fa fa-angle-right"></i>64 Cobblestone, 8 Dirt, 10 Cooked Pork & 1 Diamond</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Premium</strong> every 7 days
-										<ul>
-											<li>3 Diamonds</li>
-											<li>3 Dirt</li>
-											<li>3 Sand</li>
-											<li>1 Grass</li>
-											<li>48 Cobblestone</li>
-											<li>6 Iron Ingots</li>
-										</ul>
-									</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
-								</ul>
-							</div>
-							<div class="content" id="hero">
-								<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773704/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
-								<h4>Hero donors get:</h4>
-								<ul class="fa-ul">
-									<li><i class="fa-li fa fa-angle-right"></i>$1,000 in-game money</li>
-									<li><i class="fa-li fa fa-angle-right"></i>16 Torches, 1 Extra Lava Bucket, 2 Bones, 32 Cobblestone, 4 Dirt, 4 Sand, and 5 Cooked Pork</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Hero</strong> every 7 days
-										<ul>
-											<li>4 Diamonds</li>
-											<li>4 Dirt</li>
-											<li>4 Sand</li>
-											<li>1 Grass</li>
-											<li>64 Cobblestone</li>
-											<li>8 Iron Ingots</li>
-										</ul>
-									</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
-								</ul>
-							</div>
-							<div class="content" id="elite">
-								<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773706/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
-								<h4>Elite donors get:</h4>
-								<ul class="fa-ul">
-									<li><i class="fa-li fa fa-angle-right"></i>$2,000 in-game money</li>
-									<li><i class="fa-li fa fa-angle-right"></i>8 Diamonds, 32 Dirt, 32 Sand & 2 Grass Blocks</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Ability to join the server even if it is full</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Elite</strong> every 7 days
-										<ul>
-											<li>6 Diamonds</li>
-											<li>8 Dirt</li>
-											<li>8 Sand</li>
-											<li>1 Grass</li>
-											<li>16 Iron Ingots</li>
-										</ul>
-									</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp end</strong> (takes you to the nether)</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Ability to make your own island warp. (<strong>/is setwarp</strong>)</li>
-								</ul>
-							</div>
-							<div class="content" id="professional">
-								<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773709/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
-								<h4>Professional donors get:</h4>
-								<ul class="fa-ul">
-									<li><i class="fa-li fa fa-angle-right"></i>$3,000 in-game money</li>
-									<li><i class="fa-li fa fa-angle-right"></i>12 Diamonds, 32 Dirt, 32 Sand & 8 Grass Blocks</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Ability to join the server even if it is full</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Professional</strong> every 7 days
-										<ul>
-											<li>8 Diamonds</li>
-											<li>12 Dirt</li>
-											<li>12 Sand</li>
-											<li>1 Grass</li>
-											<li>1 Mycelium</li>
-											<li>1 Nametag</li>
-											<li>1 Set of Iron Armor</li>
-											<li>16 Iron Ingots</li>
-											<li>Efficiency 2, Unbreaking 1, Diamond Pickaxe</li>
-											<li>Sharpness 1, Looting 1, Unbreaking 1, Diamond Sword</li>
-										</ul>
-									</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp end</strong> (takes you to the nether)</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Ability to make your own island warp. (<strong>/is setwarp</strong>)</li>
-								</ul>
-							</div>
-							<div class="content" id="mayor">
-								<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773711/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
-								<h4>Mayor donors get:</h4>
-								<ul class="fa-ul">
-									<li><i class="fa-li fa fa-angle-right"></i>$5,000 in-game money</li>
-									<li><i class="fa-li fa fa-angle-right"></i>16 Diamonds, 32 Dirt, 32 Sand & 12 Grass Blocks</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Ability to join the server even if it is full</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Mayor</strong> every 7 days
-										<ul>
-											<li>8 Diamonds</li>
-											<li>12 Dirt</li>
-											<li>12 Sand</li>
-											<li>1 Grass</li>
-											<li>1 Mycelium</li>
-											<li>1 Nametag</li>
-											<li>1 Set of Iron Armor</li>
-											<li>16 Iron Ingots</li>
-											<li>Efficiency 2, Unbreaking 1, Diamond Pickaxe</li>
-											<li>Sharpness 1, Looting 1, Unbreaking 1, Diamond Sword</li>
-										</ul>
-									</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp end</strong> (takes you to the nether)</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Ability to make your own island warp. (<strong>/is setwarp</strong>)</li>
-								</ul>
-							</div>
-							<div class="content" id="skylord">
-								<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773712/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
-								<h5>Skylord donors get:</h5>
-								<ul class="fa-ul">
-									<li><i class="fa-li fa fa-angle-right"></i>$7,500 in-game money</li>
-									<li><i class="fa-li fa fa-angle-right"></i>2 Pig, 2 Sheep, 2 Villager, 2 Cow spawn eggs</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Ability to join the server even if it is full</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Skylord</strong> every 7 days
-										<ul>
-											<li>16 Diamonds</li>
-											<li>32 Dirt</li>
-											<li>32 Sand</li>
-											<li>2 Grass</li>
-											<li>2 Nametags</li>
-											<li>1 Set of Protection 4, Unbreaking 2, Iron Armor</li>
-											<li>Efficiency 3, Unbreaking 1, Diamond Pickaxe</li>
-											<li>Sharpness 2, Looting 2, Unbreaking 1, Diamond Sword</li>
-										</ul>
-									</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/fly</strong> <em>(Fly all around anywhere!)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/fly</strong> <em>(Fly all around anywhere!)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp end</strong> (takes you to the nether)</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Ability to make your own island warp. (<strong>/is setwarp</strong>)</li>
-								</ul>
-							</div>
-							<div class="content" id="skylegend">
-								<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773714/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
-								<h5>Skylord donors get:</h5>
-								<ul class="fa-ul">
-									<li><i class="fa-li fa fa-angle-right"></i>$10,000 in-game money</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Ability to join the server even if it is full</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to /kit eggs every 30 days. (2 of almost EVERY minecraft mob spawn egg).</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/ci</strong> <em>(<span class="orange">BEWARE:</span> clears inventory!)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/tpa</strong> and <strong>/tpahere</strong></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/kit Skylord</strong> every 7 days
-										<ul>
-											<li>24 Diamonds</li>
-											<li>48 Dirt</li>
-											<li>48 Sand</li>
-											<li>32 Steak</li>
-											<li>64 Stone Brick</li>
-											<li>1 Set of Protection 4, Unbreaking 2, Iron Armor</li>
-											<li>Efficiency 5, Unbreaking 3, Diamond Pickaxe</li>
-											<li>Efficiency 5, Unbreaking 3, Diamond Axe</li>
-											<li>Sharpness 5, Unbreaking 3, Looting 3, Diamond Sword</li>
-										</ul>
-									</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/fly</strong> <em>(Fly all around anywhere!)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/fly</strong> <em>(Fly all around anywhere!)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/hat</strong> <em>(command to wear a block on your head)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp nether</strong> (takes you to the nether)</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/warp end</strong> (takes you to the nether)</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Ability to make your own island warp. (<strong>/is setwarp</strong>)</li>
-								</ul>
 							</div>
 						</div>
 					</div>

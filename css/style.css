@@ -39,6 +39,11 @@ a:hover {
 	.nopad-right { padding-right: 0; }
 	.half { width: 50%; }
 	.orange { color: orange; }
+	.text-green { color: ; }
+	.strike {
+		color: red;
+		text-decoration: line-through;
+	}
 	.centered {
 		display: block;
 		margin: 0 auto;
