@@ -296,7 +296,6 @@
 										</ul>
 									</li>
 									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/fly</strong> <em>(Fly all around anywhere!)</em></li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/fly</strong> <em>(Fly all around anywhere!)</em></li>
 									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
 									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
 									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/craft</strong> <em>(a crafting table from anywhere you are)</em></li>
@@ -331,7 +330,6 @@
 											<li>Sharpness 5, Unbreaking 3, Looting 3, Diamond Sword</li>
 										</ul>
 									</li>
-									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/fly</strong> <em>(Fly all around anywhere!)</em></li>
 									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/fly</strong> <em>(Fly all around anywhere!)</em></li>
 									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/me</strong> <em>(speak in third person)</em></li>
 									<li><i class="fa-li fa fa-angle-right"></i>Access to <strong>/back</strong> <em>(takes you back a few blocks from your path)</em></li>
