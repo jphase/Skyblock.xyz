@@ -326,7 +326,6 @@
 											<li>64 Stone Brick</li>
 											<li>1 Set of Protection 4, Unbreaking 2, Iron Armor</li>
 											<li>Efficiency 5, Unbreaking 3, Diamond Pickaxe</li>
-											<li>Efficiency 5, Unbreaking 3, Diamond Axe</li>
 											<li>Sharpness 5, Unbreaking 3, Looting 3, Diamond Sword</li>
 										</ul>
 									</li>
@@ -386,15 +385,20 @@
 								<div class="box shadow inset small-top-marg">
 									<h3>Rules</h3>
 									<ul class="fa-ul">
-										<li><i class="fa-li fa fa-angle-right"></i>Don't swear too much</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Do not spam</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Do not harass anyone</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Be nice</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Do not advertise</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Do not threaten other people</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Don't use hacked clients</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Don't be a douche</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Do not restart islands to gain more resources</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Be nice and respectful to other players</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Don’t swear too much</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Don’t spam (repeating your messages is considered spam as well)</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Don’t harass anyone</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Don’t advertise (you’ll be banned without warning)</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Don’t threaten other people</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Using hacked clients, bots, or afk programs is a bannable offense</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Don’t be a douche/asshole</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Restarting islands to gain more resources, to sell and/or keep is a bannable offense</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Excessive CAPS are not allowed</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Don’t ask staff members to give you money, items, or to join their island</li>
+										<li><i class="fa-li fa fa-angle-right"></i>If you see an issue, report it to a staff member immediately, you might even be rewarded!</li>
+										<li><i class="fa-li fa fa-angle-right"></i>No flying in PVP</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Don’t camp the spawn area in PVP</li>
 									</ul>
 								</div>
 							</div>
