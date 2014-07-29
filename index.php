@@ -310,7 +310,7 @@
 									<h4><small class="strike">149.99 USD</small> <span class="green">119.99 USD</span></h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773714/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>
-								<h5>Skylord donors get:</h5>
+								<h5>Skylegend donors get:</h5>
 								<ul class="fa-ul">
 									<li><i class="fa-li fa fa-angle-right"></i>$10,000 in-game money</li>
 									<li><i class="fa-li fa fa-angle-right"></i>Ability to join the server even if it is full</li>
@@ -392,6 +392,7 @@
 										<li><i class="fa-li fa fa-angle-right"></i>Don’t advertise (you’ll be banned without warning)</li>
 										<li><i class="fa-li fa fa-angle-right"></i>Don’t threaten other people</li>
 										<li><i class="fa-li fa fa-angle-right"></i>Using hacked clients, bots, or afk programs is a bannable offense</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Treat staff with respect</li>
 										<li><i class="fa-li fa fa-angle-right"></i>Don’t be a douche/asshole</li>
 										<li><i class="fa-li fa fa-angle-right"></i>Restarting islands to gain more resources, to sell and/or keep is a bannable offense</li>
 										<li><i class="fa-li fa fa-angle-right"></i>Excessive CAPS are not allowed</li>
