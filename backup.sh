@@ -1,21 +1,18 @@
 #!/bin/bash
 
-# jphase's backup script
+# jphase's minecraft backup script
 
-BACKUPDIR="/backup/mysql"
-DAYSBACK="14"
+BACKUPDIR="/home/backup/backups"
+DAYSBACK="4"
+BACKUP=("/root/minecraft/plugins/GroupManager/worlds/world" "/root/minecraft/plugins/uSkyBlock/players" "/root/minecraft/skyworld/region")
 
 # Remove backups that are before our days back window
 find $BACKUPDIR -mtime +$DAYSBACK -exec rm -f {} \;
 
-# Get database list
-databases=`ls some stuff`
-
 # Loop through database list and create gzipped backups
-for db in $databases; do
-    if [[ "$db" != "information_schema" ]] && [[ "$db" != "performance_schema" ]] && [[ "$db" != _* ]] ; then
-        echo "`date +%Y-%m-%d\ %I:%M%p`: Dumping database: $db"
-        mysqldump --force --opt --user=$USER --password=$PASSWORD --databases $db > $BACKUPDIR/`date +%Y%m%d`.$db.sql
-        gzip $BACKUPDIR/`date +%Y%m%d`.$db.sql
-    fi
+for bkup in "${BACKUP[@]}"; do
+        DIRS=(${bkup//\// })
+        NAME=${DIRS[${#DIRS[@]} - 1]}
+        echo "`date +%Y-%m-%d\ %I:%M%p`: Compressing: $bkup   to   $BACKUPDIR/$NAME-`date +%Y-%m-%d`.tgz"
+        tar -zcvf $BACKUPDIR/$NAME-`date +%Y%m%d`.tgz $bkup
 done
