@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5 {
 }
 
 a {
-	color: #6d9700;
+	color: #6f8ed5;
 	-webkit-transition: all .3s ease-in-out;
 	-moz-transition: all .3s ease-in-out;
 	-o-transition: all .3s ease-in-out;
@@ -29,13 +29,14 @@ a {
 }
 
 a:hover {
-	color: #96cf00;
+	color: #42537c;
 }
 
 /* Utility Classes */
 
 	.right.buynow {
 		position: absolute;
+		top: 15px;
 		right: 15px;
 		z-index: 2;
 	}
@@ -109,7 +110,7 @@ a:hover {
 	}
 	.tabs dd > a, .tabs .tab-title > a {
 		background: none;
-		color: #6d9700;
+		color: #6f8ed5;
 	}
 	.tabs dd.active a, .tabs .tab-title.active a {
 		background: rgba(0, 0, 0, .3);
@@ -123,14 +124,14 @@ a:hover {
 	}
 	.button.green {
 		color: #000;
-		background: #6d9700;
+		background: #6f8ed5;
 		-webkit-transition: all .3s ease-in-out;
 		-moz-transition: all .3s ease-in-out;
 		-o-transition: all .3s ease-in-out;
 		transition: all .3s ease-in-out;
 	}
 	.button.green:hover {
-		background: #96cf00;
+		background: #42537c;
 	}
 
 /* Font Awesome Addons */

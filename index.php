@@ -89,7 +89,7 @@
 						<div class="tabs-content vertical">
 							<div class="content active" id="vip">
 								<div class="right buynow">
-									<h4><small class="strike">4.99 USD</small> <span class="green">3.99 USD</span></h4>
+                                    <h4>4.99 USD</h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773695/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>
 								<h4>VIP donors get:</h4>
@@ -117,7 +117,7 @@
 							</div>
 							<div class="content" id="premium">
 								<div class="right buynow">
-									<h4><small class="strike">9.99 USD</small> <span class="green">7.99 USD</span></h4>
+                                    <h4>9.99 USD</h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773697/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>	
 								<h4>Premium donors get:</h4>
@@ -145,7 +145,7 @@
 							</div>
 							<div class="content" id="hero">
 								<div class="right buynow">
-									<h4><small class="strike">19.99 USD</small> <span class="green">15.99 USD</span></h4>
+									<h4>19.99 USD</h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773704/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>
 								<h4>Hero donors get:</h4>
@@ -173,7 +173,7 @@
 							</div>
 							<div class="content" id="elite">
 								<div class="right buynow">
-									<h4><small class="strike">34.99 USD</small> <span class="green">27.99 USD</span></h4>
+									<h4>34.99 USD</h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773706/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>
 								<h4>Elite donors get:</h4>
@@ -203,7 +203,7 @@
 							</div>
 							<div class="content" id="professional">
 								<div class="right buynow">
-									<h4><small class="strike">49.99 USD</small> <span class="green">39.99 USD</span></h4>
+									<h4>49.99 USD</h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773709/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>
 								<h4>Professional donors get:</h4>
@@ -238,7 +238,7 @@
 							</div>
 							<div class="content" id="mayor">
 								<div class="right buynow">
-									<h4><small class="strike">74.99 USD</small> <span class="green">59.99 USD</span></h4>
+									<h4>74.99 USD</h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773711/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>
 								<h4>Mayor donors get:</h4>
@@ -273,7 +273,7 @@
 							</div>
 							<div class="content" id="skylord">
 								<div class="right buynow">
-									<h4><small class="strike">99.99 USD</small> <span class="green">79.99 USD</span></h4>
+									<h4>99.99 USD</h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773712/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>
 								<h5>Skylord donors get:</h5>
@@ -307,7 +307,7 @@
 							</div>
 							<div class="content" id="skylegend">
 								<div class="right buynow">
-									<h4><small class="strike">149.99 USD</small> <span class="green">119.99 USD</span></h4>
+									<h4>149.99 USD</h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773714/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>
 								<h5>Skylegend donors get:</h5>
@@ -356,13 +356,11 @@
 								<div class="box shadow inset small-top-marg">
 									<h3>Updates</h3>
 									<ul class="fa-ul">
-										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i>PVP has been added!!</li>
-										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i>New mob arena map "sky" added</li>
-										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i><strong>/vote</strong> and <strong>/website</strong> work <u>in-game</u></li>
-										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i>Explorer challenge is fixed</li>
-										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i>Lumberjack challenge is fixed</li>
-										<li><i class="fa-li fa fa-angle-right"></i>15% off donations right now. <a href="http://mcsky-block.buycraft.net/" target="_blank" title="Donate to aether.land">Donate Now!</a></li>
-										<li><i class="fa-li fa fa-angle-right"></i><strong>/kit</strong> grow can now be used <u>daily</u> to help kick start your farm!</li>
+                                        <li><i class="fa-li fa fa-exclamation-circle pulse orange"></i>The pvparena (/pvparena join) has been added!</li>
+										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i>New mob arena map "V2" has been added.</li>
+										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i>The website and server have been relocated to aether.land</li>
+										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i>The forums have been upgraded with more ratings and points!</li>
+										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i>Ban appeals as well as other questions should now to be adressed to <a href="mailto:support@aether.land">support@aether.land</a></li>
 									</ul>
 								</div>
 							</div>
@@ -372,10 +370,11 @@
 								<div class="box shadow inset small-top-marg">
 									<h3>Coming Soon</h3>
 									<ul class="fa-ul">
-										<li><i class="fa-li fa fa-angle-right"></i>New mob arena maps</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Player to player trading</li>
-										<li><i class="fa-li fa fa-angle-right"></i>New look and feel to forums</li>
-										<li><i class="fa-li fa fa-angle-right"></i>New look and feel to donation page</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Many new feautures and things to do on the server.</li>
+										<li><i class="fa-li fa fa-angle-right"></i>New Mob arenas and unique classes.</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Some new skyblock challenges!</li>
+										<li><i class="fa-li fa fa-angle-right"></i>Re-opening of Helper Applications</li>
+                                      	<li><i class="fa-li fa fa-angle-right"></i>New donor ranks!</li>
 									</ul>
 								</div>
 							</div>
@@ -385,21 +384,14 @@
 								<div class="box shadow inset small-top-marg">
 									<h3>Rules</h3>
 									<ul class="fa-ul">
-										<li><i class="fa-li fa fa-angle-right"></i>Be nice and respectful to other players</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Don’t swear too much</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Don’t spam (repeating your messages is considered spam as well)</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Don’t harass anyone</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Don’t advertise (you’ll be banned without warning)</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Don’t threaten other people</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Using hacked clients, bots, or afk programs is a bannable offense</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Treat staff with respect</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Don’t be a douche/asshole</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Restarting islands to gain more resources, to sell and/or keep is a bannable offense</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Excessive CAPS are not allowed</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Don’t ask staff members to give you money, items, or to join their island</li>
-										<li><i class="fa-li fa fa-angle-right"></i>If you see an issue, report it to a staff member immediately, you might even be rewarded!</li>
-										<li><i class="fa-li fa fa-angle-right"></i>No flying in PVP</li>
-										<li><i class="fa-li fa fa-angle-right"></i>Don’t camp the spawn area in PVP</li>
+                                      <li><i class="fa-li fa fa-angle-right"></i>Do not advertise! Distributing another server's ip address or hostname in public or private chats is considered advertising.</li>
+                                      <li><i class="fa-li fa fa-angle-right"></i>Do not use any hacked client, bots, or any software deemed to give you or another player an unfair advantage over other players.</li>
+                                      <li><i class="fa-li fa fa-angle-right"></i>Exploiting a glitch or bug in the server's plugins is strictly prohibited (duplication bugs are included).</li>
+                                      <li><i class="fa-li fa fa-angle-right"></i>Do not island boost (Restarting islands solely to gain resources); This will result in a deprival of island creation permissions)</li>
+                                      <li><i class="fa-li fa fa-angle-right"></i>Do not threaten, harass, jeer, or haze any player.</li>
+                                      <li><i class="fa-li fa fa-angle-right"></i>Do not spam, beg, use excessive caps, swear too much, or vulgar language.</li>
+                                      <li><i class="fa-li fa fa-angle-right"></i>Do not ask staff to give you money, items, or admission to his/her island; what they say is final!</li>
+                                      <li><i class="fa-li fa fa-angle-right"></i>As always, have fun, but maintain a kind, respectful, and logical attitude whenever playing on the server.</li>   
 									</ul>
 								</div>
 							</div>
