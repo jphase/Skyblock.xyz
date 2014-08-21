@@ -34,6 +34,11 @@ a:hover {
 
 /* Utility Classes */
 
+	.right.buynow {
+		position: absolute;
+		right: 15px;
+		z-index: 2;
+	}
 	.clear { clear: both; }
 	.nomarg { margin: 0; }
 	.nopad-right { padding-right: 0; }

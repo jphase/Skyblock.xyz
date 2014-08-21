@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Skyblock.xyz - The Ultimate Legacy Vanilla SkyBlock Server!</title>
+	<title>aether.land - The Ultimate Legacy Vanilla SkyBlock Server!</title>
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/foundation.min.css">
 	<link rel="stylesheet" href="css/style.css">
@@ -20,13 +20,13 @@
 			<aside class="left-off-canvas-menu">
 				<ul class="off-canvas-list">
 					<li><label>Quick Links</label></li>
-					<li><a href="http://skyblock.xyz/forums" title="Skyblock.xyz Forums"><i class="fa fa-comments"></i> &nbsp;&nbsp;Forums</a></li>
-					<li><a href="http://minecraftservers.org/vote/135622" target="_blank" title="Vote for Skyblock.xyz"><i class="fa fa-check-square-o"></i> &nbsp;&nbsp;Vote</a></li>
-					<li><a href="http://mcsky-block.buycraft.net/" target="_blank" title="Donate to Skyblock.xyz"><i class="fa fa-money"></i> &nbsp;&nbsp;Donate</a></li>
+					<li><a href="http://aether.land/forums" title="aether.land Forums"><i class="fa fa-comments"></i> &nbsp;&nbsp;Forums</a></li>
+					<li><a href="http://minecraftservers.org/vote/135622" target="_blank" title="Vote for aether.land"><i class="fa fa-check-square-o"></i> &nbsp;&nbsp;Vote</a></li>
+					<li><a href="http://mcsky-block.buycraft.net/" target="_blank" title="Donate to aether.land"><i class="fa fa-money"></i> &nbsp;&nbsp;Donate</a></li>
 					<li><label>Forum Links</label></li>
-					<li><a href="http://skyblock.xyz/forums/index.php?forums/helper-application.11/">Apply to be a helper</a></li>
-					<li><a href="http://skyblock.xyz/forums/index.php?forums/youtube-application.12/">Apply to be a youtuber</a></li>
-					<li><a href="http://skyblock.xyz/forums/index.php?forums/player-reports.15/">Report a player</a></li>
+					<li><a href="http://aether.land/forums/index.php?forums/helper-application.11/">Apply to be a helper</a></li>
+					<li><a href="http://aether.land/forums/index.php?forums/youtube-application.12/">Apply to be a youtuber</a></li>
+					<li><a href="http://aether.land/forums/index.php?forums/player-reports.15/">Report a player</a></li>
 					<li><label>Helpful Resources</label></li>
 					<li><a href="http://www.minecraft-crafting.net/" target="_blank" title="Minecraft Crafting Guide">Crafting Guide</a></li>
 					<li><a href="http://minecraft.gamepedia.com/" target="_blank" title="Minecraft Wiki">Minecraft Wiki</a></li>
@@ -40,7 +40,7 @@
 				<div class="row">
 					<div class="large-12 columns">
 						<div class="title">
-							<h1 class="text-center"><i class="fa fa-cubes pulse"></i> Skyblock.xyz</h1>
+							<h1 class="text-center"><i class="fa fa-cubes pulse"></i> aether.land</h1>
 						</div>
 					</div>
 				</div>
@@ -49,19 +49,19 @@
 					<div class="large-12 medium-11 small-11 medium-centered small-centered columns box shadow inset no-top-marg">
 						<div class="row collapse">
 							<div class="large-4 medium-4 columns">
-								<a href="http://skyblock.xyz/forums" title="Skyblock.xyz Forums">
+								<a href="http://aether.land/forums" title="aether.land Forums">
 									<h3 class="text-center">Forums</h3>
 									<i class="fa fa-comments fa-10x text-center centered"></i>
 								</a>
 							</div>
 							<div class="large-4 medium-4 columns">
-								<a href="http://minecraftservers.org/vote/135622" target="_blank" title="Vote for Skyblock.xyz">
+								<a href="http://minecraftservers.org/vote/135622" target="_blank" title="Vote for aether.land">
 									<h3 class="text-center">Vote</h3>
 									<i class="fa fa-check-square-o fa-10x text-center centered" style="margin-right:-30px"></i>
 								</a>
 							</div>
 							<div class="large-4 medium-4 columns">
-								<a href="http://mcsky-block.buycraft.net/" target="_blank" title="Donate to Skyblock.xyz">
+								<a href="http://mcsky-block.buycraft.net/" target="_blank" title="Donate to aether.land">
 									<h3 class="text-center">Donate</h3>
 									<i class="fa fa-money fa-10x text-center centered"></i>
 								</a>
@@ -75,7 +75,7 @@
 			<section class="widget section small-top-marg">
 				<div class="row">
 					<div class="large-12 columns box shadow inset">
-						<h3>Donor Ranks<span class="right orange pulse">20% off all ranks right now!!</span></h3>
+						<h3>Donor Ranks<span class="hide right orange pulse">20% off all ranks right now!!</span></h3>
 						<ul class="tabs vertical" data-tab>
 							<li class="tab-title active"><a href="#vip">VIP</a></li>
 							<li class="tab-title"><a href="#premium">Premium</a></li>
@@ -88,7 +88,7 @@
 						</ul>
 						<div class="tabs-content vertical">
 							<div class="content active" id="vip">
-								<div class="right">
+								<div class="right buynow">
 									<h4><small class="strike">4.99 USD</small> <span class="green">3.99 USD</span></h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773695/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>
@@ -116,7 +116,7 @@
 								</ul>
 							</div>
 							<div class="content" id="premium">
-								<div class="right">
+								<div class="right buynow">
 									<h4><small class="strike">9.99 USD</small> <span class="green">7.99 USD</span></h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773697/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>	
@@ -144,7 +144,7 @@
 								</ul>
 							</div>
 							<div class="content" id="hero">
-								<div class="right">
+								<div class="right buynow">
 									<h4><small class="strike">19.99 USD</small> <span class="green">15.99 USD</span></h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773704/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>
@@ -172,7 +172,7 @@
 								</ul>
 							</div>
 							<div class="content" id="elite">
-								<div class="right">
+								<div class="right buynow">
 									<h4><small class="strike">34.99 USD</small> <span class="green">27.99 USD</span></h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773706/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>
@@ -202,7 +202,7 @@
 								</ul>
 							</div>
 							<div class="content" id="professional">
-								<div class="right">
+								<div class="right buynow">
 									<h4><small class="strike">49.99 USD</small> <span class="green">39.99 USD</span></h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773709/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>
@@ -237,7 +237,7 @@
 								</ul>
 							</div>
 							<div class="content" id="mayor">
-								<div class="right">
+								<div class="right buynow">
 									<h4><small class="strike">74.99 USD</small> <span class="green">59.99 USD</span></h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773711/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>
@@ -272,7 +272,7 @@
 								</ul>
 							</div>
 							<div class="content" id="skylord">
-								<div class="right">
+								<div class="right buynow">
 									<h4><small class="strike">99.99 USD</small> <span class="green">79.99 USD</span></h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773712/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>
@@ -306,7 +306,7 @@
 								</ul>
 							</div>
 							<div class="content" id="skylegend">
-								<div class="right">
+								<div class="right buynow">
 									<h4><small class="strike">149.99 USD</small> <span class="green">119.99 USD</span></h4>
 									<a class="green button right" target="_blank" href="http://mcsky-block.buycraft.net/checkout/packages/add/773714/single"><i class="fa fa-shopping-cart"></i> &nbsp;&nbsp;Buy Now</a>
 								</div>
@@ -361,7 +361,7 @@
 										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i><strong>/vote</strong> and <strong>/website</strong> work <u>in-game</u></li>
 										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i>Explorer challenge is fixed</li>
 										<li><i class="fa-li fa fa-exclamation-circle pulse orange"></i>Lumberjack challenge is fixed</li>
-										<li><i class="fa-li fa fa-angle-right"></i>15% off donations right now. <a href="http://mcsky-block.buycraft.net/" target="_blank" title="Donate to Skyblock.xyz">Donate Now!</a></li>
+										<li><i class="fa-li fa fa-angle-right"></i>15% off donations right now. <a href="http://mcsky-block.buycraft.net/" target="_blank" title="Donate to aether.land">Donate Now!</a></li>
 										<li><i class="fa-li fa fa-angle-right"></i><strong>/kit</strong> grow can now be used <u>daily</u> to help kick start your farm!</li>
 									</ul>
 								</div>
